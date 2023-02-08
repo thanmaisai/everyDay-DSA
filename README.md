@@ -8,4 +8,5 @@ this repo contains information about sources,solutions while i was learning DSA
 | 1. |[remove-outermost-parentheses](https://leetcode.com/problems/remove-outermost-parentheses/description/)| Easy |
 | 2. |[Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/description/)| Medium |
 | 3. |[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| Easy |
+| 4. |[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| medium |
 
